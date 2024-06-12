@@ -1,0 +1,32 @@
+/* Container for Form-only page */
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.afternav{
+    background-color: rgb(197, 208, 221);
+}
+
+.navtext{
+    color: white;
+}
+
+#ftr{
+    padding: 20px 20px;
+    background-color: rgb(0, 0, 0);
+	margin-top: 20px;
+}
+#ftrtext{
+    color: white;
+}
+
+.masterbody{
+    background-color: #627a6f;
+}
+
+#lgnftr{
+	padding: 20px 20px;
+    background-color: rgb(0, 0, 0);
+	margin-top: 186px;
+}
+
